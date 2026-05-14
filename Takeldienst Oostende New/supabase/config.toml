@@ -1,0 +1,4 @@
+project_id = "ugnxlygdmmrbafnqaxuf"
+
+[functions.send-contact]
+verify_jwt = false

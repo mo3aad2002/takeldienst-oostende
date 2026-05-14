@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+
+    <loc>https://takeldienstoostende.be/</loc>
+
+    <changefreq>monthly</changefreq>
+
+    <priority>1.0</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://takeldienstoostende.be/privacybeleid</loc>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.3</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://takeldienstoostende.be/algemene-voorwaarden</loc>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.3</priority>
+
+  </url>
+
+  <url>
+
+    <loc>https://takeldienstoostende.be/cookiebeleid</loc>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.3</priority>
+
+  </url>
+
+</urlset>
